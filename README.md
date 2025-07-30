@@ -1,5 +1,42 @@
-# Vue 3 + Vite
+Name: Sukhpreet Kaur
+Student Id: 90541139144
+Project type:Contact management system built using **Vue 3**, **Vue Router 4**, **Vite**, and **Local Storage**. 
+ 
+ 
+ 📇 Vue 3 Contact Book Web App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A modern, single-page contact management system built using **Vue 3**, **Vue Router 4**, **Vite**, and **Local Storage**. This application allows users to manage their personal or professional contacts with an intuitive interface, blazing-fast performance, and a clean user experience.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+ 🌟 Project Highlights
+
+- ✅ **Single Page App (SPA)** with seamless navigation via **Vue Router**
+- 🔍 **Live Search**: Filter contacts by first or last name in real time
+- 🧾 **Contact Details View** for all saved information
+- ➕ **Add New Contacts** using a user-friendly form
+- 📝 **Edit Contacts** with auto-filled existing data
+- 🗑️ **Delete Contacts** with confirmation
+- 📦 **Persistent Data Storage** using browser `localStorage`
+- 💡 **Organized Alphabetically** by last name for easy scanning
+- 🎨 **Modern UI/UX** with custom CSS and responsive layout
+
+
+
+📂 Tech Stack
+
+| Technology     | Description                         |
+|----------------|-------------------------------------|
+| 🖼 Vue 3        | Reactive frontend JavaScript framework |
+| 🔀 Vue Router 4 | Routing between app views             |
+| ⚡ Vite         | Lightning-fast dev server & build tool |
+| 💾 localStorage | Saves contact data in the browser     |
+
+ 
+
+
+
+
+
+
+
+
